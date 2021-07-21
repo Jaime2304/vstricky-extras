@@ -2,8 +2,7 @@ All of this belongs to their original creators, I take no credits except for eve
 This version of Vs Tricky has ModCharts, if you take this Sauce Code for other vs tricky mod please credit me, at least, I didn't spend 5 days 
 implementing this for nothing after all, anyway, enjoy.
 
-Original READ ME File Content :
-# Vs. Tricky (trickster, what ever)
+# Vs. Tricky [Extras]
 
 ok ok so heres the build instructions.
 
